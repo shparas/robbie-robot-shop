@@ -1,4 +1,5 @@
 **Robbie Robot Shop**
+---------------------
 
 This is the project I created when I first learned
 object oriented programming and GUI in C++ back in
@@ -13,14 +14,12 @@ To run, go to code directory and run the commands:
 $make purge
 $make
 
-To use:
--------
+**To use:**
 $make start
 OR
 $./gui
 
-Instructions
-------------
+**Instructions**
 Run the compiled program and go to Create > Head to 
 create head model. Then create Torso, Locomotor, 
 Battery and Arm in same way.
