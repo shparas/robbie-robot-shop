@@ -5,7 +5,7 @@ This is the project I created when I first learned
 object oriented programming and GUI in C++ back in
 early 2017.
 
-The codes are pretty straight forward and if you
+The code is pretty straight forward and if you
 need any clarification or help, please email me at 
 git@eparas.com.
 
