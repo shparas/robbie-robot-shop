@@ -9,16 +9,16 @@ The codes are pretty straight forward and if you
 need any clarification or help, please email me at 
 git@eparas.com.
 
-**To run, go to code directory and run the commands:**
-$make purge
-$make
-
-**To use:**
-$make start
-OR
-$./gui
-
-**Instructions**
+**To run, go to code directory and run the commands:**  
+$make purge  
+$make  
+  
+**To use:**  
+$make start  
+OR  
+$./gui  
+  
+**Instruction:**  
 Run the compiled program and go to Create > Head to 
 create head model. Then create Torso, Locomotor, 
 Battery and Arm in same way.
