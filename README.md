@@ -1,5 +1,6 @@
 This is the project I created when I first learned
-object oriented programming and GUI in C++.
+object oriented programming and GUI in C++ back in
+2017.
 
 To run, go to code directory and run the commands:
 --------------------------------------------------
