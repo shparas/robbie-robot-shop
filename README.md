@@ -9,8 +9,7 @@ The codes are pretty straight forward and if you
 need any clarification or help, please email me at 
 git@eparas.com.
 
-To run, go to code directory and run the commands:
---------------------------------------------------
+**To run, go to code directory and run the commands:**
 $make purge
 $make
 
